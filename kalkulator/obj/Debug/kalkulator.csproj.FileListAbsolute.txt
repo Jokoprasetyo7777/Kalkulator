@@ -1,0 +1,9 @@
+E:\1044\3\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+E:\1044\3\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+E:\1044\3\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+E:\1044\3\kalkulator\kalkulator\obj\Debug\kalkulator.kalkulator.resources
